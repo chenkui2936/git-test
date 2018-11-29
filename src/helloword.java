@@ -5,4 +5,8 @@ public class helloword {
         System.out.println("cccccccccccccccccccc");
         System.out.println("dddddddddddddddddddd");
     }
+    public void test(){
+        int i=1;
+        i=1+12;
+    }
 }
