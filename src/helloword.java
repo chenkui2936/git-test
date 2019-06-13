@@ -8,7 +8,7 @@ public class helloword {
     }
     public void test(){
         int i=1;
-        i=1+12;
+        i=1+12+3;
         System.out.println("adv");
     }
 }
